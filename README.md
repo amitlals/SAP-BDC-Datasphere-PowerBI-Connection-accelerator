@@ -17,11 +17,19 @@ End-to-end, read-only, DirectQuery-first accelerator to connect Microsoft Power 
 - Follow the journey: https://trials.cfapps.eu10-004.hana.ondemand.com/learning-journey/bt_bdc/bdc-intro
 - In BTP Cockpit, subscribe to SAP Datasphere and open the application.
 
+<img width="1833" height="577" alt="image" src="https://github.com/user-attachments/assets/f0dac188-6759-4c37-8e4e-108859aae032" />
+
+<img width="1400" height="544" alt="image" src="https://github.com/user-attachments/assets/67138f8d-3330-4880-85dc-a85a401f8c2f" />
+
+
 2) Create a Space + Enable Database Access 🧱
 - In Datasphere, create a Space for this accelerator (e.g., `ACCEL_SPACE`).
 - In the Space → Settings → Database Access: Enable it and create a DB user.
 - Note the generated Host and Port, plus the DB username/password.
   - You can use your user ID `GE223911` as the DB username if you set it accordingly (or use the generated DB user). 🔑
+ 
+  <img width="1440" height="348" alt="image" src="https://github.com/user-attachments/assets/bdb8e32b-9892-480e-a1c7-4860e3705dd8" />
+
 
 3) Install prerequisites on your Windows machine 🧩
 - Power BI Desktop (64-bit)
