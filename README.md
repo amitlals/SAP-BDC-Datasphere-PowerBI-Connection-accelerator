@@ -64,23 +64,6 @@ End-to-end, read-only, DirectQuery-first accelerator to connect Microsoft Power 
 - SAP BDC/Datasphere FAQs: https://community.sap.com/t5/technology-blog-posts-by-sap/sap-business-data-cloud-faqs/ba-p/14022781
 - Power BI cloud data sources: https://learn.microsoft.com/en-us/power-bi/connect-data/service-connect-cloud-data-sources
 
-## Push to GitHub ⛳
-
-- Create the repo `amitlals/SAP-BDC-Datasphere-PowerBI-Connection-accelerator` on GitHub first.
-- Then run:
-
-```bash
-git init
-git add .
-git commit -m "feat: DirectQuery ODBC accelerator for SAP Datasphere"
-git branch -M main
-git remote add origin https://github.com/amitlals/SAP-BDC-Datasphere-PowerBI-Connection-accelerator.git
-# or: git@github.com:amitlals/SAP-BDC-Datasphere-PowerBI-Connection-accelerator.git
-git push -u origin main
-```
-
-
-
 ## License
 
 Licensed under the Apache License, Version 2.0 (Apache-2.0). See `LICENSE` for details.
