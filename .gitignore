@@ -1,0 +1,17 @@
+# OS
+.DS_Store
+
+# Node/VS Code/VS
+.vscode/
+.vs/
+
+# Power BI Custom Connector builds
+*.mez
+connector/dist/
+bin/
+obj/
+
+# Env
+.env
+scripts/.env
+

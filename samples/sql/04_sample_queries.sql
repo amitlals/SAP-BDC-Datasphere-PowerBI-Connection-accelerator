@@ -1,0 +1,9 @@
+-- Identity and default schema
+SELECT CURRENT_USER, CURRENT_SCHEMA FROM DUMMY;
+
+-- Count rows in CUSTOMERS
+SELECT COUNT(*) AS ROWS FROM "YOUR_SCHEMA"."CUSTOMERS";
+
+-- Preview the aggregated view
+SELECT * FROM "YOUR_SCHEMA"."V_SALES_BY_COUNTRY" ORDER BY "COUNTRY";
+

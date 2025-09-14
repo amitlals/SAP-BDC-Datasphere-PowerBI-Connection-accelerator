@@ -1,0 +1,10 @@
+-- Create minimal CUSTOMERS table in your Open SQL schema
+-- Replace YOUR_SCHEMA with your Space Open SQL schema name
+CREATE COLUMN TABLE "YOUR_SCHEMA"."CUSTOMERS" (
+  "ID" INTEGER PRIMARY KEY,
+  "NAME" NVARCHAR(100),
+  "COUNTRY" NVARCHAR(50),
+  "SALES" DECIMAL(15,2),
+  "UPDATED_AT" TIMESTAMP
+);
+
