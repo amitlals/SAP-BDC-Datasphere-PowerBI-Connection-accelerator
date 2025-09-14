@@ -66,7 +66,7 @@ End-to-end, read-only, DirectQuery-first accelerator to connect Microsoft Power 
 
 ## Push to GitHub ⛳
 
-- Create the repo `amitals/SAP-BDC-Datasphere-PowerBI-Connection-accelerator` on GitHub first.
+- Create the repo `amitlals/SAP-BDC-Datasphere-PowerBI-Connection-accelerator` on GitHub first.
 - Then run:
 
 ```bash
@@ -74,8 +74,8 @@ git init
 git add .
 git commit -m "feat: DirectQuery ODBC accelerator for SAP Datasphere"
 git branch -M main
-git remote add origin https://github.com/amitals/SAP-BDC-Datasphere-PowerBI-Connection-accelerator.git
-# or: git@github.com:amitals/SAP-BDC-Datasphere-PowerBI-Connection-accelerator.git
+git remote add origin https://github.com/amitlals/SAP-BDC-Datasphere-PowerBI-Connection-accelerator.git
+# or: git@github.com:amitlals/SAP-BDC-Datasphere-PowerBI-Connection-accelerator.git
 git push -u origin main
 ```
 

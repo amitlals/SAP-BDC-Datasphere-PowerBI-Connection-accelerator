@@ -34,5 +34,5 @@ SapDatasphereOdbc.Publish = [
     Beta = true,
     Category = "Other",
     ButtonText = { "SAP Datasphere ODBC", "SAP Datasphere ODBC" },
-    LearnMoreUrl = "https://github.com/amitals/SAP-BDC-Datasphere-PowerBI-Connection-accelerator"
+    LearnMoreUrl = "https://github.com/amitlals/SAP-BDC-Datasphere-PowerBI-Connection-accelerator"
 ];
